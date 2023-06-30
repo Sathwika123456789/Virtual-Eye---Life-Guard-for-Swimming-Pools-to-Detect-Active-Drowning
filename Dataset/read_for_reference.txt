@@ -1,0 +1,1 @@
+Dataset images of Swimming and Drowning are gathered and every image is annotated manually and respective annotations text files are obtained
